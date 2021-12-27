@@ -1,1 +1,1 @@
-# ReDI2-IntroductionToMachineLearning_RossmanSales_Analysis
+IntroductionToMachineLearning_RossmanSales_Analysis
